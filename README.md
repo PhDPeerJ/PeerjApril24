@@ -16,5 +16,5 @@ To create this dataset you can run this matlab file: CreateDataset.m(folderPath,
 
 # Run
 
-To perform a single executin, use the file main.m to run. 
+To perform a single simulation, use the file main.m to run. 
 To run the complete dataset, run the file RunDataset.m
